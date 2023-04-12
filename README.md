@@ -150,35 +150,27 @@ Install this project with:
 <!--
 Example command:
 
-```sh
+
   cd my-project
-  gem install
-```
---->
+  git config --global --add safe.directory my-directory/my-folder/my-project
+ 
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+  code .
+  git status
+  npm init
+  npm install
+  npm i webpack
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+npm start
 
 ### Deployment
 
