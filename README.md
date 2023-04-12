@@ -134,43 +134,31 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+- cd my-folder
+- git clone [https://github.com/Abdelaziz-Ali/Webpack-Template.git](https://github.com/Abdelaziz-Ali/Webpack-Template.git)
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-
-  cd my-project
-  git config --global --add safe.directory my-directory/my-folder/my-project
+- cd my-project
+- git config --global --add safe.directory my-directory/my-folder/my-project
  
-
-
 ### Usage
 
 To run the project, execute the following command:
 
-  code .
-  git status
-  npm init
-  npm install
-  npm i webpack
+- code .
+- git status
+- npm init
+- npm install
+- npm i webpack
 
 ### Run tests
 
 To run tests, run the following command:
 
-npm start
+- npm start
 
 ### Deployment
 
