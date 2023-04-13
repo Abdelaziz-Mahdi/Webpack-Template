@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
   <br/>
 
 </div>
@@ -122,13 +122,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Install node.
+- vscode or equlivent.
 
 ### Setup
 
@@ -153,12 +148,13 @@ To run the project, execute the following command:
 - npm init
 - npm install
 - npm i webpack
+- npm start
 
 ### Run tests
 
 To run tests, run the following command:
 
-- npm start
+NA
 
 ### Deployment
 
